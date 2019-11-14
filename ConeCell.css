@@ -1,0 +1,59 @@
+h1{
+	text-align: center;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 500%;
+	color: #FFF
+
+}
+body{
+	
+	background-image: url("pictures/Backround.jpg");
+	/* Full height */
+  	height: 50%;
+
+  /* Center and scale the image nicely */
+  	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+h2{
+	font-family: 'Arial Black', Gadget, sans-serif;
+	text-align: center;
+}
+h3{
+	text-align: center;
+	color: #FFF
+}
+a:link {
+  color: rgb(144,238,144);
+}
+a:visited{
+	color: rgb(144,238,144);
+}
+
+/* mouse over link */
+a:hover {
+  color: orange;
+}
+li{
+	font-family: Tahoma,Geneva,sans-serif;
+	font-size: 125%;
+	color: #FF0
+}
+img{
+	border: 10px dashed rgb(255,150,71);
+}
+strong{
+	color: white;
+}
+h4{
+	text-align: center;
+	color: rgb(0,153,76);
+}
+.blogs{
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	
+}
+.text{
+	font-size: 100%
+}
